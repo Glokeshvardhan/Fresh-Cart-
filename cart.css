@@ -1,0 +1,364 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0%;
+}
+
+.first{
+    width: 100%;
+    height: auto;
+    background-color: white;
+    color: rgb(9, 9, 9);
+    padding: 10px;
+   
+    
+}
+.first img{
+    width: 200px;
+    margin-right:20px ;
+    align-items: center;
+}
+.first select{
+    width:250px;
+    height: 40px;
+    text-shadow: rgb(132, 251, 92);
+}
+.first input{
+    width: 500px;
+    height: 40px;
+    text-align: left;
+    padding: 15px;
+}
+.first button{
+    width: 200px;
+    height:40px;
+    padding: 0px;
+    border-radius: 5%;
+    box-sizing: 5px;
+}
+.first i{
+    width: 100px;
+    height:0px ;
+    text-align: right;
+    font-size: 2rem;
+}
+.second{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(40, 187, 40);
+    color: white;
+    padding: 10px;
+    margin-right: 20px;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+.second select{
+    width: 130px;
+    height: 25px;
+    background-color: rgb(40, 187, 40) ;
+    color: white;
+    text-align: center;
+    margin-left: 10px;
+    border-color: rgb(40, 187, 40);
+}
+.second i{
+    margin-left: 20px;
+}
+.news{
+    width: 100%;
+    height: auto;
+    padding: 50px;
+    clear: both;
+    display: table;
+    box-sizing: border-box;
+    background-color:white;
+    font-size: 30px;
+    padding: 10px;
+    
+}
+.new{
+    width: 90%;
+    height: auto;
+    float:left;
+    background-color: rgba(224, 236, 235, 0.945);
+    color: rgb(15, 15, 15);
+    margin-left:6%;
+    margin-right:6%;
+    display: flex;
+}
+.new img{
+    width: 200px;
+    height: 200px;
+    float:left;
+}
+.new button{
+    width: 200px;
+    height: 50px;
+    float: right;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: auto;
+    margin-left: 300px;
+    border-radius: 10%;
+}
+.space{
+    height:20px;
+    background-color:white;
+}
+.flexcenter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: center;
+}
+.fours{
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    clear: both;
+    display: table;
+    box-sizing: border-box;
+    background-color:white;
+    font-size: 30px;
+    box-sizing: border-box;
+}
+.four{
+    width: 25%;
+    height: 450px;
+    float:left;
+    background-color: rgb(202, 221, 245);
+    color: rgb(15, 15, 15);
+    margin-left:6%;
+    padding: 2rem;
+    align-items: center;
+}
+.four button{
+    width: 100px;
+    height: 50px;
+    float:left;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: auto;
+    padding: 1rem;
+    border-radius: 10%;
+}
+.four img{
+    width: 200px;
+    height: 200px;
+    float:right;
+    padding: 10px;
+    
+}
+.fourr{
+    width: 25%;
+    height: 450px;
+    float:left;
+    background-color: rgb(202, 221, 245);
+    color: rgb(15, 15, 15);
+    margin-left:6%;
+    padding: 2rem;
+    align-items: center;
+}
+.fourr button{
+    width: 100px;
+    height: 50px;
+    float:left;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: auto;
+    padding: 1rem;
+    border-radius: 10%;
+}
+.fourr img{
+    width: 200px;
+    height: 160px;
+    float:right;
+    padding: 10px;
+
+}
+.fourrr{
+    width: 25%;
+    height: 450px;
+    float:left;
+    background-color: rgb(202, 221, 245);
+    color: rgb(15, 15, 15);
+    margin-left:6%;
+    padding: 2rem;
+    align-items: center;
+}
+.fourrr button{
+    width: 100px;
+    height: 50px;
+    float:left;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: auto;
+    padding: 1rem;
+    border-radius: 10%;
+}
+.fourrr img{
+    width: 210px;
+    height: 190px;
+    float:right;
+    padding: 10px;
+}
+.fifth{
+    margin-left: 6%;
+    margin-right: 6%;
+    width: 80%;
+    height: auto;
+    margin: auto;
+    text-align: left;
+    clear: both;
+    display: table;
+    border-width: 60px;
+}
+.five{
+    width:200px;
+    float: left;
+}
+.five figure{
+    box-shadow: 0.50px 1px 1px 1px rgba(92, 89, 89, 0.36);
+   margin:20px;
+   height: 220px;
+}
+.five figcaption{
+    padding: 20px;
+}
+.five figure img{
+   width: 95%;
+   padding: 20px; 
+}
+.sixth{
+    margin-left: 6%;
+    margin-right: 6%;
+    width: 80%;
+    height: auto;
+    margin: auto;
+    text-align: left;
+    clear: both;
+    display: table;
+    border-width: 60px; 
+}
+.six{
+    width:25%;
+    float: left;
+}
+.six figure{
+    box-shadow: 0.50px 1px 1px 1px rgba(71, 69, 69, 0.379);
+   margin:20px;
+   height:auto;
+}
+.six figcaption{
+    padding: 20px;
+}
+.six figure img{
+   width: 250px;
+   padding: 20px; 
+}
+.six button{
+    float: right;
+    background-color: rgb(40, 187, 40)  ;
+    color: white;
+    width: 90px;
+    height: 30px;
+    border-radius: 10%;
+}
+.spa{
+    width: 100%;
+    height: 1px;
+    background-color: rgb(9, 9, 9);
+}
+.seventh{
+    width: 100%;
+    height: auto;
+}
+.seven{
+    margin-top: 5%;
+    padding: 20px;
+}
+.seven img{
+    padding: 10px;
+    margin-right: 50px;
+}
+ .sev a{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    line-height: 50px;
+    border-radius: 50%;
+    text-align: center;
+    background-color: white;
+    box-shadow:0.50px 0.5px 1px 1px black;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.sev input{
+    padding: 10px;
+    text-align: left;
+    margin-top: 10px;
+    width: 250px;
+}
+.sev button{
+    background-color:  rgb(40, 187, 40);
+    color: white;
+    text-align: center;
+    height: 40px;
+    margin-left: 10px;
+    width: 150px;
+}
+.eighth{
+    padding: 90px;
+}
+.eighth div{
+    margin-right: 30px;
+}
+.nineth{
+    background-color: rgba(234, 228, 228, 0.795);
+    width: 100%;
+    height: auto;
+    padding: 30px;
+}
+.nine{
+    margin-right: 30px;
+}
+.nin{
+    padding: 20px;
+    margin-top: 35px;
+}
+h4{
+    color: rgba(64, 61, 61, 0.768);
+}
+.nio{
+    margin-left: 30px;
+    padding: 20px;
+}
+.ni{
+    margin-left: 30px;
+    padding: 20px;
+}
+.ne{
+    margin-right: 30px;
+    padding: 20px;
+}
+.ten{
+    background-color: rgba(234, 228, 228, 0.795);
+    width: 100%;
+    height: auto;
+    padding: 30px;
+}
+.ten img{
+    width: 60px;
+    height: 40px;
+    margin-left: 15px;
+}
+.sev img{
+    width: 160px;
+    height: 100px;
+}
